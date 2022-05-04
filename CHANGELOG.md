@@ -1,3 +1,21 @@
+### devop
+
+* add new nodes [#3798](https://github.com/MyEtherWallet/MyEtherWallet/pull/3798)
+* add new nodes [#3801](https://github.com/MyEtherWallet/MyEtherWallet/pull/3801)
+
+### feat
+
+* * dynamic data for article links [#3777](https://github.com/MyEtherWallet/MyEtherWallet/pull/3777)
+* * automated the year displayed and dashboard version number links to github release [#3789](https://github.com/MyEtherWallet/MyEtherWallet/pull/3789)
+* * disabled ENS transfer button if there is not enough balance [#3802](https://github.com/MyEtherWallet/MyEtherWallet/pull/3802)
+
+### fix
+
+* replace ens management header to new dapp header [#3661](https://github.com/MyEtherWallet/MyEtherWallet/pull/3661)
+* fix moon pay popup ui [#3748](https://github.com/MyEtherWallet/MyEtherWallet/pull/3748)
+* fix hardware wallet custom path [#3770](https://github.com/MyEtherWallet/MyEtherWallet/pull/3770)
+* fix missing currency issue [#3804](https://github.com/MyEtherWallet/MyEtherWallet/pull/3804)
+
 ### Release v6.5.3
 
 ### devop
